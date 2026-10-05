@@ -1,0 +1,20 @@
+{
+  "name": "financial-statements-textbook",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "python3 -B tools/check_book.py && python3 -B tools/accounting_lab.py",
+    "dev": "vitepress dev . --host 127.0.0.1 --port 5173 --strictPort",
+    "build": "vitepress build .",
+    "preview": "vitepress preview . --host 127.0.0.1 --port 4173 --strictPort",
+    "check:site": "python3 -B tools/check_site.py",
+    "predev": "node tools/prepare_site.mjs",
+    "prebuild": "node tools/prepare_site.mjs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "overrides": {
+    "vite": "^6.4.3"
+  }
+}

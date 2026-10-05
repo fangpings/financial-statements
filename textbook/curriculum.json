@@ -1,0 +1,222 @@
+[
+  {
+    "title": "第一篇 打开一份美国公司财报",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "01 财报究竟能告诉我们什么",
+        "file": "01-questions.md"
+      },
+      {
+        "number": 2,
+        "title": "02 美国上市公司的披露地图",
+        "file": "02-filings.md"
+      },
+      {
+        "number": 3,
+        "title": "03 第一次阅读 10-K",
+        "file": "03-first-10k.md"
+      },
+      {
+        "number": 4,
+        "title": "04 读数字之前先核对口径",
+        "file": "04-periods.md"
+      }
+    ]
+  },
+  {
+    "title": "第二篇 从一笔生意到一套报表",
+    "chapters": [
+      {
+        "number": 5,
+        "title": "05 资产负债与股东权益",
+        "file": "05-equation.md"
+      },
+      {
+        "number": 6,
+        "title": "06 收入费用与现金为何不同步",
+        "file": "06-accrual.md"
+      },
+      {
+        "number": 7,
+        "title": "07 利润表 公司怎样形成利润",
+        "file": "07-income.md"
+      },
+      {
+        "number": 8,
+        "title": "08 资产负债表 资源与义务",
+        "file": "08-balance-sheet.md"
+      },
+      {
+        "number": 9,
+        "title": "09 现金流量表 利润怎样变成现金",
+        "file": "09-cash-flow.md"
+      },
+      {
+        "number": 10,
+        "title": "10 权益变动与综合收益",
+        "file": "10-equity.md"
+      }
+    ]
+  },
+  {
+    "title": "第三篇 收入成本与经营资产",
+    "chapters": [
+      {
+        "number": 11,
+        "title": "11 收入确认 什么时候才算赚到钱",
+        "file": "11-revenue.md"
+      },
+      {
+        "number": 12,
+        "title": "12 应收账款合同资产与合同负债",
+        "file": "12-receivables.md"
+      },
+      {
+        "number": 13,
+        "title": "13 存货销售成本与毛利",
+        "file": "13-inventory.md"
+      },
+      {
+        "number": 14,
+        "title": "14 营业费用研发与资本化",
+        "file": "14-expenses.md"
+      },
+      {
+        "number": 15,
+        "title": "15 固定资产折旧与资本开支",
+        "file": "15-capex.md"
+      }
+    ]
+  },
+  {
+    "title": "第四篇 融资投资与复杂附注",
+    "chapters": [
+      {
+        "number": 16,
+        "title": "16 债务利息与偿债安排",
+        "file": "16-debt.md"
+      },
+      {
+        "number": 17,
+        "title": "17 租赁 使用资产与支付义务",
+        "file": "17-leases.md"
+      },
+      {
+        "number": 18,
+        "title": "18 股权薪酬回购与每股收益",
+        "file": "18-shares.md"
+      },
+      {
+        "number": 19,
+        "title": "19 所得税 税费为什么不等于缴税",
+        "file": "19-taxes.md"
+      },
+      {
+        "number": 20,
+        "title": "20 并购商誉无形资产与合并报表",
+        "file": "20-acquisitions.md"
+      },
+      {
+        "number": 21,
+        "title": "21 金融投资公允价值外币与套期保值",
+        "file": "21-fair-value.md"
+      },
+      {
+        "number": 22,
+        "title": "22 或有事项承诺与其他长期义务",
+        "file": "22-commitments.md"
+      }
+    ]
+  },
+  {
+    "title": "第五篇 从数字形成经营判断",
+    "chapters": [
+      {
+        "number": 23,
+        "title": "23 增长从哪里来 分部地区与业务指标",
+        "file": "23-growth.md"
+      },
+      {
+        "number": 24,
+        "title": "24 盈利能力与资本回报",
+        "file": "24-returns.md"
+      },
+      {
+        "number": 25,
+        "title": "25 营运资金现金转换与自由现金流",
+        "file": "25-cash-conversion.md"
+      },
+      {
+        "number": 26,
+        "title": "26 流动性杠杆与资本配置",
+        "file": "26-capital-allocation.md"
+      }
+    ]
+  },
+  {
+    "title": "第六篇 盈利质量与管理层解释",
+    "chapters": [
+      {
+        "number": 27,
+        "title": "27 GAAP Non-GAAP 与调整后指标",
+        "file": "27-non-gaap.md"
+      },
+      {
+        "number": 28,
+        "title": "28 盈利质量与异常信号",
+        "file": "28-quality.md"
+      },
+      {
+        "number": 29,
+        "title": "29 审计意见内部控制与财报重述",
+        "file": "29-audit.md"
+      },
+      {
+        "number": 30,
+        "title": "30 MD&A 风险因素指引与电话会",
+        "file": "30-management.md"
+      }
+    ]
+  },
+  {
+    "title": "第七篇 行业阅读方法",
+    "chapters": [
+      {
+        "number": 31,
+        "title": "31 零售消费与制造业",
+        "file": "31-retail-manufacturing.md"
+      },
+      {
+        "number": 32,
+        "title": "32 软件订阅平台与半导体",
+        "file": "32-technology.md"
+      },
+      {
+        "number": 33,
+        "title": "33 银行财报",
+        "file": "33-banks.md"
+      },
+      {
+        "number": 34,
+        "title": "34 保险 REITs 与资源型企业",
+        "file": "34-special-industries.md"
+      }
+    ]
+  },
+  {
+    "title": "第八篇 独立读完公司财报",
+    "chapters": [
+      {
+        "number": 35,
+        "title": "35 完整年报带读与季度跟踪",
+        "file": "35-guided-report.md"
+      },
+      {
+        "number": 36,
+        "title": "36 毕业项目 一份可复核的公司财务报告",
+        "file": "36-capstone.md"
+      }
+    ]
+  }
+]

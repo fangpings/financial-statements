@@ -1,0 +1,178 @@
+{
+  "checked_on": "2026-10-04",
+  "kind": "historical_report_extract",
+  "unit": "million_USD_except_per_share_and_million_shares",
+  "annual": {
+    "issuer": "Microsoft",
+    "period_end": "2024-06-30",
+    "source": "https://www.microsoft.com/investor/reports/ar24/index.html",
+    "filing_index": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/0000950170-24-087843-index.html",
+    "filing_date": "2024-07-30",
+    "locations": [
+      "Income statements",
+      "Cash flows statements",
+      "Note 2 Earnings per share",
+      "Stockholders equity statements",
+      "Note 13 Unearned revenue"
+    ],
+    "current": {
+      "revenue": 245122,
+      "operating_income": 109433,
+      "net_income": 88136,
+      "cfo": 118548,
+      "capex": 44477,
+      "basic_shares": 7431,
+      "diluted_shares": 7469
+    },
+    "prior": {
+      "revenue": 211915,
+      "operating_income": 88523,
+      "net_income": 72361,
+      "cfo": 87582,
+      "capex": 28107
+    },
+    "bridges": {
+      "cfo_adjustments": [
+        [
+          "折旧、摊销及其他",
+          22287
+        ],
+        [
+          "股权薪酬费用",
+          10734
+        ],
+        [
+          "投资及衍生工具净已确认损失",
+          305
+        ],
+        [
+          "递延所得税",
+          -4738
+        ],
+        [
+          "应收账款",
+          -7191
+        ],
+        [
+          "存货",
+          1284
+        ],
+        [
+          "其他流动资产",
+          -1648
+        ],
+        [
+          "其他长期资产",
+          -6817
+        ],
+        [
+          "应付账款",
+          3545
+        ],
+        [
+          "未实现收入",
+          5348
+        ],
+        [
+          "所得税",
+          1687
+        ],
+        [
+          "其他流动负债",
+          4867
+        ],
+        [
+          "其他长期负债",
+          749
+        ]
+      ],
+      "investing_cash_flows": {
+        "ppe": -44477,
+        "acquisitions_net_and_other_assets": -69132,
+        "investment_purchases": -17732,
+        "investment_maturities": 24775,
+        "investment_sales": 10894,
+        "other": -1298
+      },
+      "financing_cash_flows": {
+        "short_debt_net": 5250,
+        "debt_issued": 24395,
+        "debt_repaid": -29070,
+        "stock_issued": 2002,
+        "stock_repurchased": -17254,
+        "dividends_paid": -21771,
+        "other": -1309
+      },
+      "cash": {
+        "beginning": 34704,
+        "fx_effect": -210,
+        "ending": 18315
+      },
+      "equity": {
+        "paid_in_capital": {
+          "beginning": 93718,
+          "changes": [
+            2002,
+            -5712,
+            10734,
+            181
+          ],
+          "ending": 100923
+        },
+        "retained_earnings": {
+          "beginning": 118848,
+          "changes": [
+            88136,
+            -22293,
+            -11547
+          ],
+          "ending": 173144
+        },
+        "aoci": {
+          "beginning": -6343,
+          "changes": [
+            753
+          ],
+          "ending": -5590
+        }
+      },
+      "unearned_revenue": {
+        "beginning": 53813,
+        "deferral": 148701,
+        "recognition": -142330,
+        "ending": 60184
+      }
+    }
+  },
+  "quarter": {
+    "issuer": "Microsoft",
+    "fiscal_label": "FY2025 Q1",
+    "period_start": "2024-07-01",
+    "period_end": "2024-09-30",
+    "income_source": "https://www.microsoft.com/en-us/investor/earnings/fy-2025-q1/income-statements",
+    "cash_source": "https://www.microsoft.com/en-us/investor/earnings/fy-2025-q1/cash-flows",
+    "status": "unaudited earnings tables; 10-Q identity located, full SEC HTML too large for retrieval",
+    "current": {
+      "revenue": 65585,
+      "cfo": 34180,
+      "capex": 14923
+    },
+    "prior": {
+      "revenue": 56517,
+      "cfo": 30583,
+      "capex": 9917
+    }
+  },
+  "retail": {
+    "issuer": "Costco",
+    "period_end": "2024-09-01",
+    "source": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/cost-20240901.htm",
+    "location": "Consolidated statements of income, fiscal 2024 column",
+    "net_sales": 249625,
+    "membership_fees": 4828,
+    "revenue": 254453,
+    "operating_income": 9285,
+    "current_weeks": 52,
+    "prior_weeks": 53
+  }
+}

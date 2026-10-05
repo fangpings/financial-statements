@@ -1,0 +1,14 @@
+:root {
+  --vp-c-brand-1: #15756e;
+  --vp-c-brand-2: #238c83;
+  --vp-c-brand-3: #2b9e94;
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+}
+.dark { --vp-c-brand-1: #72d4c6; --vp-c-brand-2: #51bbad; --vp-c-brand-3: #329f92; }
+.vp-doc p, .vp-doc li { line-height: 1.9; }
+.vp-doc h1 { line-height: 1.45; }
+.vp-doc table { font-size: 14px; }
+.vp-doc summary { cursor: pointer; }
+@media (min-width: 960px) {
+  .VPDoc.has-aside .content-container { max-width: 800px !important; }
+}
